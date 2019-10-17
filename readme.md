@@ -1,3 +1,5 @@
+### CMakeLists模板持续更新中，欢迎补充
+
 ### 参考资料
 - 参考资料一：https://blog.csdn.net/songchuwang1868/article/details/84774844
 - 参考资料二：https://www.hahack.com/codes/cmake/#
