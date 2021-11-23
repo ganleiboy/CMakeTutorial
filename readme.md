@@ -31,4 +31,5 @@ make
 - CMakeLists-4.txt，适用于cpp文件在一个文件夹(src/中)，头文件在另一个文件夹内（include/中），且调用了第三方库（比如已经安装在系统中的opencv），最终编译成一个可执行文件的情况。
 
 
-
+#### ubuntu18.04 基于VSCode的C++环境搭建 
+- [参考链接](https://www.cnblogs.com/Alexkk/p/12616485.html)
