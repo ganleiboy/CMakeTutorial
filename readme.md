@@ -1,12 +1,15 @@
 ### CMakeLists模板持续更新中，欢迎补充
 
 ### 参考资料
-- 参考资料一：https://blog.csdn.net/songchuwang1868/article/details/84774844
-- 参考资料二：https://www.hahack.com/codes/cmake/#
-- 参考资料三：https://segmentfault.com/a/1190000005954337
-- 参考资料四：https://blog.csdn.net/afei__/article/details/81201039
+- 1，[CMakeLists.txt基本通用模板](https://blog.csdn.net/songchuwang1868/article/details/84774844)
+- 2，[CMake 入门实战](https://www.hahack.com/codes/cmake/#)
+- 3，[CMakeLists.txt 语法介绍与实例演练](https://blog.csdn.net/afei__/article/details/81201039)
+- 4，还涉及通配符和递归遍历，[CMakeList模板(二)：编译多个工程](https://blog.csdn.net/lianshaohua/article/details/107783811)
+- 5，很全面，可查表，涉及构成CMakeLists的各个基础模块和命令，[CMakeLists.txt 的详解](https://blog.csdn.net/zhangzhikang_zzk/article/details/125681694#t7)
+- 6，适合初学者看，通俗易懂，[CMakeList添加库|添加头文件|添加路径|添加编译选项|宏开关](https://blog.csdn.net/bandaoyu/article/details/115165199)
+- 7，[在C++中使用openmp进行多线程编程](https://www.cnblogs.com/DWVictor/p/15212008.html)
 
-	
+
 ### 编译
 
 ```shell
