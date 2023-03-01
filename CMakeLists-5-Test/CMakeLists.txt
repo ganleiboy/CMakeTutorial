@@ -1,5 +1,5 @@
 cmake_minimum_required (VERSION 3.5)				# cmake版本最低要求
-project (test5)
+project (test5)  # 设置工程名称
 
 SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)	# 设置可执行文件的输出目录
 SET(LIBRARY_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/lib)	# 设置库文件的输出目录

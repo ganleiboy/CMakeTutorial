@@ -1,8 +1,8 @@
-cmake_minimum_required(VERSION 3.5)
-project(test7)
+cmake_minimum_required(VERSION 3.5)  # cmake版本最低要求
+project(test7)  # 设置工程名称
 
-set(CMAKE_CXX_STANDARD 11)  # 指定为 C++ 版本
-set(CMAKE_BUILD_TYPE Release)  # Debug模式可以调试，Release模式运行速度快
+set(CMAKE_CXX_STANDARD 11)  # 指定 C++ 版本
+set(CMAKE_BUILD_TYPE Release)  # 调试使用Debug，可以查看中间变量；发布使用Release，运行速度快
 
 message("${PROJECT_SOURCE_DIR}=" ${PROJECT_SOURCE_DIR})
 
